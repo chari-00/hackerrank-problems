@@ -25,13 +25,13 @@ Welcome to my collection of solutions to coding problems on [HackerRank](https:/
 ## 🛠️ Technologies Used
 
 - 🐍 Python (currently)
-- 💻 More languages coming soon...
+- 💻 More languages to be practiced...
 
 ---
 
 ## 📬 Let’s Connect
 
-- 🔗 [HackerRank](https://www.hackerrank.com/profile/varshan_chari)
+- 🔗 [HackerRank](https://www.hackerrank.com/profile/chari00)
 - 🐙 [GitHub](https://github.com/chari-00)
 
 ---
