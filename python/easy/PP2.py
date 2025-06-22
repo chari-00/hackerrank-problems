@@ -1,4 +1,3 @@
-
 """ 
 Task
 Given an integer n, perform the following conditional actions:
@@ -9,19 +8,19 @@ Given an integer n, perform the following conditional actions:
 """
 
 def even_find(x):
-    if 1 <= x <= 100:
-        if x % 2 != 0:
+    if x>=1 and x<=100:
+        if x % 2 !=0:
             return "Weird"
-        elif 2 <= x <= 5:
+        elif x % 2 == 0 and x >= 2 and x <= 5:
             return "Not Weird"
-        elif 6 <= x <= 20:
+        elif x % 2 == 0 and x >= 6 and x <= 20:
             return "Weird"
-        else:  # x > 20
+        elif x % 2 == 0 and x > 20:
             return "Not Weird"
     else:
         return "Input out of range"
-
     
+
 x = int(input())
 result = even_find(x)
 print(result)
