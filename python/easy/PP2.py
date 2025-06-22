@@ -20,7 +20,7 @@ def even_find(x):
     else:
         return "Input out of range"
     
-def main():
-    x = int(input())
-    result = even_find(x)
-    print(result)
+
+x = int(input())
+result = even_find(x)
+print(result)
