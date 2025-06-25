@@ -1,4 +1,4 @@
-# 🚀 HackerRank Problem Solving Journey
+# 🚀 HackerRank Problem Solutions
 
 Welcome to my collection of solutions to coding problems on [HackerRank](https://www.hackerrank.com/profile/varshan_chari). This repo is a live log of my learning, where I solve problems across domains to improve my problem-solving skills, strengthen my foundations, and explore new programming concepts.
 
